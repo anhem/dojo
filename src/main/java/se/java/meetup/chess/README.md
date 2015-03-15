@@ -25,7 +25,7 @@ Chess records often use the algebraic notation method for describing moves. Foll
 * R = Rook
 * B = Bishop
 * N = kNight
-(pawns moves are presented without a letter)
+* pawns moves are presented without a letter
 
 ## Notation for captures
 
