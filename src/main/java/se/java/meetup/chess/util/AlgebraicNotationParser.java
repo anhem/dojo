@@ -1,4 +1,4 @@
-package se.java.meetup.chess;
+package se.java.meetup.chess.util;
 
 import java.util.ArrayList;
 import java.util.Collections;

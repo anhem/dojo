@@ -1,4 +1,4 @@
-package se.java.meetup.chess;
+package se.java.meetup.chess.util;
 
 import org.junit.Test;
 
